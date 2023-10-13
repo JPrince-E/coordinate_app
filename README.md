@@ -1,16 +1,8 @@
 # coordinate_app
 
-A new Flutter project.
+This app gets the longitude and latitude of your location and displays it on the screen after a Get Location button is clicked.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Once the app is launched at first, permission has to be given to the app to continue.
+The get location button is used to display the current location after clicking
